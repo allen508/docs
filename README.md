@@ -1,5 +1,7 @@
-# Strum Kit Docs
+# Welcome
 
-> Welcome to Strum kit docs
+> Welcome to the developer homepage of Allen508 software developer. An individual passionate about writing quality software. 
 
-This is the page for the Strum Kit guitar tuning app
+Recent Projects:
+
+* [Guitar Tuner App for Android](GuitarTuner.md)
