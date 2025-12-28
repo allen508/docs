@@ -4,7 +4,7 @@
 
 Recent Projects:
 
-* [Music theory tool](musictheroytool.md)
+* [Music theory tool - Instructions](MusicTheoryToolInstructions.md)
 * [Guitar Tuner App for Android](GuitarTuner.md)
 
 
