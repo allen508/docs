@@ -1,9 +1,10 @@
 # Welcome
 
-> Welcome to the developer homepage of Allen508 software developer. An individual passionate about writing quality software. 
+> Welcome to the developer homepage of Gary Allen (Allen508) software developer. An individual passionate about writing quality software. 
 
 Recent Projects:
 
+* [Music theory tool - Instructions](MusicTheoryToolInstructions.md)
 * [Guitar Tuner App for Android](GuitarTuner.md)
 
 
