@@ -2,6 +2,7 @@
 
 * [Home](/)
 * Music theory tool
-  * [Motivation](MusicTheoryToolMotivations.md)
+  * [Instructions](MusicTheoryToolInstructions.md)
+  * [Theory Overview](MusicTheoryToolTheoryOverview.md)
   * [Instructions](MusicTheoryToolInstructions.md)
 * [Guitar Tuner App](GuitarTuner.md)

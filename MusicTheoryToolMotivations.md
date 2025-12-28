@@ -1,5 +1,7 @@
 # Music theory tool - Motivations
 
+[Music theory tool](https://rococo-trifle-2ec14a.netlify.app/song5)
+
 ## My journey with the guitar (so far...)
 I didn't have a particulary musical up bringing. I was encouraged by my parents to play violin and piano at my secondary school, but it was happy to just learn some basics. Follow the music teacher in playing some notes, or chords. Having to commit basic chords to memory was a huge turn-off. If music was just commiting patterns to memory and out pops a tune, then I was happy to leave that to others. I mostly listened to pop music, liked how the latest chart release made me feel when I listened to it, and that was enough for me.
 
@@ -39,11 +41,13 @@ On to of that, music seems to be taught through a particular method. That is, fo
 
 For example:
 
-How are sheet musical staves tought to a student? Memorise a nmonic. "Every Good Boy Deserves Football"
-How are the guitar strings tought? Memorise a nmonic. "Eddie Ate Dynamite, Good Bye Eddie"
-How is the circle of fifths taught? Memorise a nmominic. "Father Charles Goes Down And Ends Battle"
+* How are sheet musical staves tought to a student? Memorise a nmonic. "Every Good Boy Deserves Football"
+* How are the guitar strings tought? Memorise a nmonic. "Eddie Ate Dynamite, Good Bye Eddie"
+* How is the circle of fifths taught? Memorise a nmominic. "Father Charles Goes Down And Ends Battle"
+* How many sharps in Dm scale? Memorise the circle of sharps and flats.
+* The list goes on...
 
-This is limiting, and I hate having to remember stuff.
+Music should be intuitive and expressive, not a memory game. This is limiting, and I also hate having to remember stuff.
 
-I leaned on what I had learnt previously about pitches, frequencies etc, combined with learning interval theory to put together a tool that helped make music theory simple for me. It was also the necessary step to actually understand how the guitar is built around musical theory, and why it is such an amazing instrument.
+I leaned on what I had learnt previously about pitches, frequencies etc, combined with learning interval theory to put together a tool that helped make music theory simple for me. It was also the necessary step to actually understand how the guitar is built around musical theory, really unlocking the fret board, and why it is such an amazing instrument.
 
