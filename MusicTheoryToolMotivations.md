@@ -51,3 +51,10 @@ Music should be intuitive and expressive, not a memory game. This is limiting, a
 
 I leaned on what I had learnt previously about pitches, frequencies etc, combined with learning interval theory to put together a tool that helped make music theory simple for me. It was also the necessary step to actually understand how the guitar is built around musical theory, really unlocking the fret board, and why it is such an amazing instrument.
 
+### Next steps
+
+For me understanding this level of theory is a great step forward. Using the circle as a reference to which notes/chords fit diatonically, is really good fun... It allows me to play my own solos over popular songs, it allows me to construct songs that work well as a peice of music, it really has deepened my knowledge fun of playing music.
+
+Having this knowledge has allowed me to explore other more important musical concepts, like rhythm, and recording/production techniques, which if done poorly, can be another discouragement to playing good music you actually want to listen to.
+
+This is just a learning tool, always remember to have fun mastering your instrument (you can do it and it will come with time and persistance). You have all the will in the world behind you...
